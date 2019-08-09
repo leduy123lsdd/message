@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "5eea11b931730ef73ee614ff6b881d86"
+build_time: [1565339011, 601226000]
+inputs:
+  "/Users/leduy/Desktop/messageApp_/messageApp_/tableVIewHeader/TableViewHeaderCell.swift": [1565336586, 48510395]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/tableViewCell/TableViewCell.swift": [1565335579, 248550934]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/tableviewCollectionCell/cell/CollectionViewCell.swift": [1565337583, 652749549]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/searchCellTable/TableSearchViewCell.swift": [1565338743, 175047231]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/ViewController.swift": [1565339011, 524921094]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/tableviewCollectionCell/TableCollectionViewCell.swift": [1565338293, 473515064]
+  "/Users/leduy/Desktop/messageApp_/messageApp_/AppDelegate.swift": [1565335482, 448961800]
